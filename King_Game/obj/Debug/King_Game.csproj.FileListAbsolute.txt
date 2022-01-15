@@ -1,0 +1,7 @@
+D:\workpace\visualstudio\King_Game\King_Game\bin\Debug\King_Game.exe.config
+D:\workpace\visualstudio\King_Game\King_Game\bin\Debug\King_Game.exe
+D:\workpace\visualstudio\King_Game\King_Game\bin\Debug\King_Game.pdb
+D:\workpace\visualstudio\King_Game\King_Game\obj\Debug\King_Game.csproj.AssemblyReference.cache
+D:\workpace\visualstudio\King_Game\King_Game\obj\Debug\King_Game.csproj.CoreCompileInputs.cache
+D:\workpace\visualstudio\King_Game\King_Game\obj\Debug\King_Game.exe
+D:\workpace\visualstudio\King_Game\King_Game\obj\Debug\King_Game.pdb
