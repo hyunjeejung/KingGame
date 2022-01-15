@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace King_Game
 {
+    // 1번째 왕게임_소스코드
     class KingGame_1
     {
         static void Main_1(string[] args)
