@@ -9,7 +9,7 @@ namespace King_Game
     // 1번째 왕게임_소스코드
     class KingGame_1
     {
-        static void Main_1(string[] args)
+        public static void Main1()
         {
             Console.WriteLine("신나고 짜릿한 왕게임을 시작하겠습니다!.\n참여자의 수를 입력하세요.");
 

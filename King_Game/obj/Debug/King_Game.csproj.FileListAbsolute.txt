@@ -5,3 +5,10 @@ D:\workpace\visualstudio\King_Game\King_Game\obj\Debug\King_Game.csproj.Assembly
 D:\workpace\visualstudio\King_Game\King_Game\obj\Debug\King_Game.csproj.CoreCompileInputs.cache
 D:\workpace\visualstudio\King_Game\King_Game\obj\Debug\King_Game.exe
 D:\workpace\visualstudio\King_Game\King_Game\obj\Debug\King_Game.pdb
+E:\workspace\GitHub_KingGame\King_Game\obj\Debug\King_Game.csproj.AssemblyReference.cache
+E:\workspace\GitHub_KingGame\King_Game\obj\Debug\King_Game.csproj.CoreCompileInputs.cache
+E:\workspace\GitHub_KingGame\King_Game\obj\Debug\King_Game.exe
+E:\workspace\GitHub_KingGame\King_Game\obj\Debug\King_Game.pdb
+E:\workspace\GitHub_KingGame\King_Game\bin\Debug\King_Game.exe.config
+E:\workspace\GitHub_KingGame\King_Game\bin\Debug\King_Game.exe
+E:\workspace\GitHub_KingGame\King_Game\bin\Debug\King_Game.pdb

@@ -45,8 +45,6 @@
   <ItemGroup>
     <Compile Include="KingGame_1.cs" />
     <Compile Include="KingGame_2.cs" />
-    <Compile Include="For_presentation.cs" />
-    <Compile Include="Team_project.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
