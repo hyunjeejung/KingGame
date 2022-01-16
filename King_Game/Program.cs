@@ -7,23 +7,63 @@ using System.Threading.Tasks;
 namespace King_Game
 {
     class Program
-    {
+    {    
         static void Main(string[] args)
         {
-            //KingGame_1.Main1();
-            KingGame_2.Main2();
-
-            //잘될까요?
-            //잘될까요?? 다시 치기
-            //홍지은 테스트
-            //홍지은2
-            // 으렵다 너무나 어려버!!!!
-
-            //박준규
 
 
-            //아 왜 안돼!
+                //최초 체력 부여 및 매 라운드별 체력 차감하기!!
 
+                int[] hparray =
+                {
+                50,
+                40,
+                30,
+                20
+                };
+
+
+                int[] nowhparray = new int[hparray.Length];
+
+                for (int i = 1; i < 5; i++)
+                {
+
+                    if (i == 1)
+                    {
+                        for (int w = 0; w < hparray.Length; w++)
+                        {
+                            int nowhp = hparray[w];
+                            nowhparray[w] = nowhp;
+                        }
+                    }
+
+                    else
+                    {
+                        for (int w = 0; w < nowhparray.Length; w++)
+                        {
+                            int nowhp = nowhparray[w];
+                            nowhparray[w] = nowhp - 10;
+                        }
+                    }
+
+
+                    foreach (var arr in nowhparray)
+                    {
+                        Console.WriteLine(arr + " 체력 " + i + " 라운드");
+                    }
+
+                    Console.WriteLine("");
+
+                }
         }
+
+
     }
 }
+
+
+
+
+
+
+

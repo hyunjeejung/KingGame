@@ -12,3 +12,10 @@ E:\workspace\GitHub_KingGame\King_Game\obj\Debug\King_Game.pdb
 E:\workspace\GitHub_KingGame\King_Game\bin\Debug\King_Game.exe.config
 E:\workspace\GitHub_KingGame\King_Game\bin\Debug\King_Game.exe
 E:\workspace\GitHub_KingGame\King_Game\bin\Debug\King_Game.pdb
+C:\Users\박준규\Documents\KingGame\King_Game\bin\Debug\King_Game.exe.config
+C:\Users\박준규\Documents\KingGame\King_Game\bin\Debug\King_Game.exe
+C:\Users\박준규\Documents\KingGame\King_Game\bin\Debug\King_Game.pdb
+C:\Users\박준규\Documents\KingGame\King_Game\obj\Debug\King_Game.csproj.AssemblyReference.cache
+C:\Users\박준규\Documents\KingGame\King_Game\obj\Debug\King_Game.csproj.CoreCompileInputs.cache
+C:\Users\박준규\Documents\KingGame\King_Game\obj\Debug\King_Game.exe
+C:\Users\박준규\Documents\KingGame\King_Game\obj\Debug\King_Game.pdb
