@@ -12,6 +12,11 @@ namespace King_Game
         {
             //KingGame_1.Main1();
             KingGame_2.Main2();
+
+            //잘될까요?
+            //잘될까요?? 다시 치기
+
+
         }
     }
 }
